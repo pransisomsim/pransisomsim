@@ -43,6 +43,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![GitHub Copilot CLI](https://img.shields.io/badge/GitHub_Copilot_CLI-181717?style=flat-square&logo=githubcopilot&logoColor=white)
+![Antigravity CLI](https://img.shields.io/badge/Antigravity_CLI-4285F4?style=flat-square&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=opencode&logoColor=white)
 
 
 ## Connect
